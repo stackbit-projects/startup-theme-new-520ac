@@ -310,6 +310,15 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
+        - name: city
+          label: City
+          defaultValue: Please choose...
+          options:
+            - New York
+            - San Francisco
+          isRequired: false
+          width: full
+          type: SelectFormControl
       submitLabel: Sign Up
     styles:
       self:
