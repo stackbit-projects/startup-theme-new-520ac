@@ -8,7 +8,7 @@
     },
     "h2": {
         "weight": "bold",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "none",
         "letterSpacing": "0.025em"
     },
