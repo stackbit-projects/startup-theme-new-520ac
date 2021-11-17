@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "h1": {
         "weight": "bold",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "uppercase",
         "letterSpacing": "-0.025em"
     },
