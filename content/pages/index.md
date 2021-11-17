@@ -192,12 +192,12 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-f
-    text: >+
-      ## “We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing”
+    text: >
+      ## “We sometimes write things. You [should](https://twitter.com) read it,
+      it might shed some light on why we’re doing what we’re doing”
+
 
       [See all posts](/blog)
-
     styles:
       self:
         height: auto
