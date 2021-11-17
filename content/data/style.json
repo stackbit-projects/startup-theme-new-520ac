@@ -10,7 +10,7 @@
         "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "-0.025em"
+        "letterSpacing": "normal"
     },
     "h3": {
         "weight": "bold",
