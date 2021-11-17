@@ -304,6 +304,12 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
+        - name: lorem-ipsum
+          label: Name
+          placeholder: Your name
+          isRequired: false
+          width: full
+          type: EmailFormControl
       submitLabel: Sign Up
     styles:
       self:
