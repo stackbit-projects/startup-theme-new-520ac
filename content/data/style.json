@@ -4,7 +4,7 @@
         "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "0.05em"
+        "letterSpacing": "normal"
     },
     "h2": {
         "weight": "bold",
