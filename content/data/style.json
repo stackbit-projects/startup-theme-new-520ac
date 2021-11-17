@@ -9,7 +9,7 @@
     "h2": {
         "weight": "bold",
         "decoration": "none",
-        "case": "lowercase",
+        "case": "capitalize",
         "letterSpacing": "0.025em"
     },
     "h3": {
