@@ -299,7 +299,7 @@ sections:
       action: /.netlify/functions/submission_created
       fields:
         - name: lorem-ipsum
-          label: Email
+          label: EmailEma
           placeholder: Your email
           isRequired: false
           width: full
